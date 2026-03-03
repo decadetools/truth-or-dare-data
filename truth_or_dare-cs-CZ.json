@@ -1,0 +1,4007 @@
+[
+  {
+    "content": "Jaký je tvůj nejhorší zlozvyk, o kterém ještě nikdo neví?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 1,
+    "locale": "cs-CZ",
+    "id": "rec6VL87WYN72M3yK"
+  },
+  {
+    "content": "Lhal/a jsi někdy někomu osobně o svém věku? Komu a proč?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 2,
+    "locale": "cs-CZ",
+    "id": "recq7g5E1QkUEn1O3"
+  },
+  {
+    "content": "Která osoba v této místnosti má nejhezčí zadek?",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "checked",
+    "order_id": 3,
+    "locale": "cs-CZ",
+    "id": "recgINyIStXLFbPE8"
+  },
+  {
+    "content": "Svět skončí příští týden a ty můžeš dělat cokoli chceš (i nelegálního). Co budeš tento týden dělat?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 4,
+    "locale": "cs-CZ",
+    "id": "recvXT3DaT5hoc4Ok"
+  },
+  {
+    "content": "Byl/a jsi někdy na nudapláži? Kde? Popiš, jaké to bylo.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 5,
+    "locale": "cs-CZ",
+    "id": "recEPK66HugXCJl7D"
+  },
+  {
+    "content": "Vymluvil/a ses někdy z rande těsně před začátkem nebo v průběhu? Popiš to detailně.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 6,
+    "locale": "cs-CZ",
+    "id": "reccFqOWIp7OpQPvw"
+  },
+  {
+    "content": "Platil/a jsi někdy za sex?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 7,
+    "locale": "cs-CZ",
+    "id": "rec60EAs2m5bHRTwx"
+  },
+  {
+    "content": "Spal/a jsi s více než 30 lidmi?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 8,
+    "locale": "cs-CZ",
+    "id": "recxSrSgYhblA1aBk"
+  },
+  {
+    "content": "Spal/a jsi s více než 20 lidmi?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 9,
+    "locale": "cs-CZ",
+    "id": "recm5ywNrTAni7UiX"
+  },
+  {
+    "content": "Spal/a jsi s více než 10 lidmi?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 10,
+    "locale": "cs-CZ",
+    "id": "recEJbjKzS74Vi4f8"
+  },
+  {
+    "content": "S kolika lidmi jsi měl/a v životě sex?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 11,
+    "locale": "cs-CZ",
+    "id": "recGbgWiZROS4dVxq"
+  },
+  {
+    "content": "V kolika letech jsi přišel/přišla o panictví/panenství?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 12,
+    "locale": "cs-CZ",
+    "id": "recW34ll93DJig1Sh"
+  },
+  {
+    "content": "Popiš svůj první sex v životě. Detaily prosím.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 13,
+    "locale": "cs-CZ",
+    "id": "recSpI6Vs5PMduNHm"
+  },
+  {
+    "content": "Jaké je první povolání, o kterém sis myslel/a, že ho budeš v budoucnu dělat?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 14,
+    "locale": "cs-CZ",
+    "id": "rech2j3fRneMG3mBl"
+  },
+  {
+    "content": "Porval/a ses někdy? Popiš situaci.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 15,
+    "locale": "cs-CZ",
+    "id": "recMG5Rz61djfGi0L"
+  },
+  {
+    "content": "Šikanoval/a jsi někdy někoho?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 16,
+    "locale": "cs-CZ",
+    "id": "rec4J9ZD4eLvnmPpE"
+  },
+  {
+    "content": "Byl/a jsi někdy šikanovaný/á?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 17,
+    "locale": "cs-CZ",
+    "id": "recmMEkhsggRT4sKJ"
+  },
+  {
+    "content": "Zkoušel/a jsi někdy anální sex?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 18,
+    "locale": "cs-CZ",
+    "id": "recfV3f2T40uWmdQj"
+  },
+  {
+    "content": "Dělal/a jsi to někdy někomu pusou?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 19,
+    "locale": "cs-CZ",
+    "id": "recpT4Co6ISohkPtb"
+  },
+  {
+    "content": "Dělal/a ti to někdo někdy pusou?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 20,
+    "locale": "cs-CZ",
+    "id": "recWe3XiS96dnc4dQ"
+  },
+  {
+    "content": "Vyspal/a by ses s někým odporným, kdyby ti nabídl/a 20 mil. Kč?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 21,
+    "locale": "cs-CZ",
+    "id": "rec30hx9kxw9OV8Bb"
+  },
+  {
+    "content": "Kdybych ti řekl/a, že jsem v minulosti natáčel/a p**rno, rozešel/rozešla by ses se mnou?",
+    "type": "truth",
+    "tags": "couples",
+    "is_erotic": "checked",
+    "order_id": 22,
+    "locale": "cs-CZ",
+    "id": "recHfTpoN9V9dAIrl"
+  },
+  {
+    "content": "Znáš nějakou konspirační teorii? Jmenuj alespoň jednu.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 23,
+    "locale": "cs-CZ",
+    "id": "recCVeTip0JPEnod5"
+  },
+  {
+    "content": "Viděl/a jsi někdy ducha? Máš nějakou historku na tohle téma?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 24,
+    "locale": "cs-CZ",
+    "id": "recBYGFzeVfa1ijST"
+  },
+  {
+    "content": "Kdybys se mohl/a vrátit v čase, co bys poradil/a svému mladšímu já ohledně vztahů?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 25,
+    "locale": "cs-CZ",
+    "id": "recaY56TyQadZGCKw"
+  },
+  {
+    "content": "Jmenuj nějaké osoby, se kterými ses líbal/a, ale nevyspal/a ses s nimi.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 26,
+    "locale": "cs-CZ",
+    "id": "rec9tDNNG5itmeMNw"
+  },
+  {
+    "content": "Kdo v této místnosti je objektivně nejatraktivnější?",
+    "type": "truth",
+    "tags": "friends,party",
+    "is_erotic": "",
+    "order_id": 27,
+    "locale": "cs-CZ",
+    "id": "rec6mCVun1sVG5uFl"
+  },
+  {
+    "content": "Peníze nejsou problém, máš jich víc než dost. Co teď? Jak budeš trávit čas?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 28,
+    "locale": "cs-CZ",
+    "id": "recE8ynP8foj7SZjv"
+  },
+  {
+    "content": "Byl/a jsi ve škole šprt/ka? Popiš, jaký typ studenta/studentky jsi byl/a.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 29,
+    "locale": "cs-CZ",
+    "id": "recmi7APPw9bnzQhb"
+  },
+  {
+    "content": "Jaký je nejlepší kostým, jaký jsi měl/a?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 30,
+    "locale": "cs-CZ",
+    "id": "recCUTMFiW8JLqz9J"
+  },
+  {
+    "content": "Na jaký výlet jsi nejvíc pyšný/á, že jsi ho podnikl/a?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 31,
+    "locale": "cs-CZ",
+    "id": "recqSLNTuhOFfAYRx"
+  },
+  {
+    "content": "Chceš někdy zkusit podnikání?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 32,
+    "locale": "cs-CZ",
+    "id": "rec3PIzSDRMDB0lDp"
+  },
+  {
+    "content": "Přál/a sis někdy tajně, aby přišla potopa nebo jiná podobná katastrofa?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 33,
+    "locale": "cs-CZ",
+    "id": "recL7GqofvIoxsLKq"
+  },
+  {
+    "content": "Jaké bylo tvé hobby, když jsi byl/a dítě (6–10 let)?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 34,
+    "locale": "cs-CZ",
+    "id": "recxfrnIiBFxnkh6o"
+  },
+  {
+    "content": "Jak probíhala tvoje puberta? Rebeloval/a jsi nějak?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 35,
+    "locale": "cs-CZ",
+    "id": "recmMppKDojEyOzJe"
+  },
+  {
+    "content": "Rozešel/rozešla ses někdy s někým, protože daná osoba nechtěla dělat sexuální praktiky, které jsi chtěl/a ty?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 36,
+    "locale": "cs-CZ",
+    "id": "recWvYPWXvZBJXIzn"
+  },
+  {
+    "content": "Dostal/a jsi někdy zaracha?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 37,
+    "locale": "cs-CZ",
+    "id": "recFFgG6gcEIQP8OF"
+  },
+  {
+    "content": "Kdy naposledy jsi lhal/a svým rodičům a o čem?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 38,
+    "locale": "cs-CZ",
+    "id": "recZtuLKTSbOxvoWd"
+  },
+  {
+    "content": "Kolika partnerům jsi řekl/a, že ji/ho miluješ?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 39,
+    "locale": "cs-CZ",
+    "id": "recwawoCcMfThBZlN"
+  },
+  {
+    "content": "Poslal/a jsi někdy nahé fotky? Litoval/a jsi toho?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 40,
+    "locale": "cs-CZ",
+    "id": "recHyQp0yxRGjci7i"
+  },
+  {
+    "content": "Byl/a jsi někdy přistižen/a při masturbaci?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 41,
+    "locale": "cs-CZ",
+    "id": "recFbIAuYyQB9llFU"
+  },
+  {
+    "content": "Přistihnul/a jsi někdy rodiče při něčem sexuálním?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 42,
+    "locale": "cs-CZ",
+    "id": "rec86FdRWockQx2KB"
+  },
+  {
+    "content": "Kdo byl tvůj nejhorší partner/partnerka v posteli a proč?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 43,
+    "locale": "cs-CZ",
+    "id": "recvkcboUW2po2fTJ"
+  },
+  {
+    "content": "Zkusil/a jsi někdy nějakou drogu? Jakou a kde?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 44,
+    "locale": "cs-CZ",
+    "id": "recHf31oOgmKeXTsf"
+  },
+  {
+    "content": "V kolikati letech jsi byl/a poprvé opilý/á?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 45,
+    "locale": "cs-CZ",
+    "id": "recs7auug6lYpATAO"
+  },
+  {
+    "content": "Měl/a jsi někdy sex venku nebo na veřejném místě? Popiš kde.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 46,
+    "locale": "cs-CZ",
+    "id": "recPSIxHnH4NSX4Bg"
+  },
+  {
+    "content": "Kdo z nás tu podle tebe čekal nejdéle, než přišel o panictví/panenství?",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "checked",
+    "order_id": 47,
+    "locale": "cs-CZ",
+    "id": "recTyMLi2bxlDIJrg"
+  },
+  {
+    "content": "Kdo z nás tu podle tebe přišel o panictví/panenství jako první (v nejmladším věku)?",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "checked",
+    "order_id": 48,
+    "locale": "cs-CZ",
+    "id": "recO0W6tZkEwMesWV"
+  },
+  {
+    "content": "Co tě v práci/ve škole dokáže nejvíc vytočit?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 49,
+    "locale": "cs-CZ",
+    "id": "receLIzd2xxiZokCP"
+  },
+  {
+    "content": "Ukradl/a jsi někdy něco? Co to bylo?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 50,
+    "locale": "cs-CZ",
+    "id": "rec9aZVfmmVlxdWmB"
+  },
+  {
+    "content": "Kdyby sis mohl/a vyspat s jednou slavnou osobou, kdo by to byl?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 51,
+    "locale": "cs-CZ",
+    "id": "recJazufzl65wVZ7X"
+  },
+  {
+    "content": "Jaký je nejhorší rande, na jakém jsi byl/a? Co se stalo?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 52,
+    "locale": "cs-CZ",
+    "id": "recWpxpk2N3fumMUI"
+  },
+  {
+    "content": "Byl/a jsi někdy nevěrný/á?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 53,
+    "locale": "cs-CZ",
+    "id": "recd5XqTWRaHaihVR"
+  },
+  {
+    "content": "Jaká je tvoje sexuální fantazie, kterou jsi ještě nikdy nezrealizoval/a?",
+    "type": "truth",
+    "tags": "couples",
+    "is_erotic": "checked",
+    "order_id": 54,
+    "locale": "cs-CZ",
+    "id": "recrla8M8sMCEfgYW"
+  },
+  {
+    "content": "Jaká je tvoje sexuální fantazie, jež jsi už zrealizoval/a?",
+    "type": "truth",
+    "tags": "couples",
+    "is_erotic": "checked",
+    "order_id": 55,
+    "locale": "cs-CZ",
+    "id": "recxCgZGpluhNQOC6"
+  },
+  {
+    "content": "Byl/a jsi někdy zamilovaný/á do kamaráda/kamarádky svého partnera/partnerky?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 56,
+    "locale": "cs-CZ",
+    "id": "recv6uBoWhJhMhF1r"
+  },
+  {
+    "content": "Jaká je nějaká drahá věc, co jsi koupil/a a pak litoval/a?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 57,
+    "locale": "cs-CZ",
+    "id": "recsaMv0Sb0xpc1DZ"
+  },
+  {
+    "content": "Měl/a jsi někdy sex s někým starším o víc než 10 let?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 58,
+    "locale": "cs-CZ",
+    "id": "rec4RRfjfNcbkz2TD"
+  },
+  {
+    "content": "Lhal/a jsi někdy partnerovi/partnerce o svém počtu sexuálních partnerů?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 59,
+    "locale": "cs-CZ",
+    "id": "rechJSMprPXdUED0x"
+  },
+  {
+    "content": "Kdybys měl/a projít telefon kohokoliv v téhle místnosti, čí by tě zajímal nejvíc?",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 60,
+    "locale": "cs-CZ",
+    "id": "rec7Uh0RTiDnpklAw"
+  },
+  {
+    "content": "Jaká je divná věc, co ti na lidech připadá atraktivní?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 61,
+    "locale": "cs-CZ",
+    "id": "recy4htvRL4YWzIwI"
+  },
+  {
+    "content": "Byl/a jsi někdy součástí trojky nebo o ní vážně uvažoval/a? Popiš situaci",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 62,
+    "locale": "cs-CZ",
+    "id": "recLra6iDOj9MVhQC"
+  },
+  {
+    "content": "Jaký je největší průšvih, do kterého tě dostal alkohol?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 63,
+    "locale": "cs-CZ",
+    "id": "rec5mFodwbYlD6ZoO"
+  },
+  {
+    "content": "Kdybys mohl/a být druhým pohlavím na jeden den, co bys dělal/a jako první?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 64,
+    "locale": "cs-CZ",
+    "id": "reck28RKa1q75bxOf"
+  },
+  {
+    "content": "Kdo z nás tady by byl/a nejhorší spolubydlící a proč?",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 65,
+    "locale": "cs-CZ",
+    "id": "reccVfypLA7dfXiwQ"
+  },
+  {
+    "content": "Kdo z nás tu podle tebe nejvíc umí v posteli?",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "checked",
+    "order_id": 66,
+    "locale": "cs-CZ",
+    "id": "reczvZUatRxlcmTi9"
+  },
+  {
+    "content": "Jaký seriál aktuálně sleduješ nebo který jsi naposledy sledoval/a?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 67,
+    "locale": "cs-CZ",
+    "id": "recuaEDzUUrCvjxqs"
+  },
+  {
+    "content": "Jakou knihu si naposledy četl?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 68,
+    "locale": "cs-CZ",
+    "id": "recS2n9WnbcqMSP87"
+  },
+  {
+    "content": "Spíš nahý/á?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 69,
+    "locale": "cs-CZ",
+    "id": "recPsNeh3HkX6dkwI"
+  },
+  {
+    "content": "Měl jsi někdy něco se spolužákem nebo spolužačkou?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 70,
+    "locale": "cs-CZ",
+    "id": "recrYwQQ8qbcsPU9f"
+  },
+  {
+    "content": "Měl jsi někdy něco s kolegou nebo kolegyní v práci?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 71,
+    "locale": "cs-CZ",
+    "id": "rec8qm1TYyiHhymbe"
+  },
+  {
+    "content": "Spal/a jsi někdy s někým, koho jsi potkal/a ten samý den?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 72,
+    "locale": "cs-CZ",
+    "id": "recpcZRzwKjdyvSMJ"
+  },
+  {
+    "content": "Zkoušel/a jsi někdy sexuální hračky?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 73,
+    "locale": "cs-CZ",
+    "id": "recKcLG7EUpuEhlUA"
+  },
+  {
+    "content": "Zkoušel/a jsi někdy sex na veřejném místě, kde hrozilo přistižení? Popiš",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 74,
+    "locale": "cs-CZ",
+    "id": "recxiO6r2O0PvYmBN"
+  },
+  {
+    "content": "Kdo z nás má největší šanci přežít zombie apokalypsu a proč?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 75,
+    "locale": "cs-CZ",
+    "id": "recyRQttIhIjwc4pa"
+  },
+  {
+    "content": "Kdo z přítomných je podle tebe nejpravděpodobnější, že skončí ve vězení a za co?",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 76,
+    "locale": "cs-CZ",
+    "id": "rec9Ah3YvgQ6HowuZ"
+  },
+  {
+    "content": "Kolikrát jsi si myslel/a, že je to konec vašeho vztahu, a nakonec ne?",
+    "type": "truth",
+    "tags": "couples",
+    "is_erotic": "",
+    "order_id": 77,
+    "locale": "cs-CZ",
+    "id": "recwTjWaawGg3OND4"
+  },
+  {
+    "content": "Popiš do detailu první setkání vás dvou, jako bys ho popisoval někomu jinému.",
+    "type": "truth",
+    "tags": "friends,couples",
+    "is_erotic": "",
+    "order_id": 78,
+    "locale": "cs-CZ",
+    "id": "rec6o05yHvZl6MzDm"
+  },
+  {
+    "content": "Komu bys zavolal, aby ti pomohl dostat se z vězení v cizí zemi, kam ses dostal nedopatřením? Kdo by to podle tebe dokázal zařídit?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 79,
+    "locale": "cs-CZ",
+    "id": "recBKAje5Qn8c1Ono"
+  },
+  {
+    "content": "Jak probíhala tvá první jízda autem v běžném provozu? V autoškole se nepočítá.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 80,
+    "locale": "cs-CZ",
+    "id": "rec6mC5pu6E3Wa76C"
+  },
+  {
+    "content": "Měl jsi někdy brigádu? Popiš všechny bigády, co jsi kdy dělal/a",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 81,
+    "locale": "cs-CZ",
+    "id": "recw8KoBxdyBAlT8p"
+  },
+  {
+    "content": "Dokážeš si představit život, ve kterém by sis vzal cizince nebo cizinku? Zamysli se nad tím, proč bys to udělal. A proč bys to naopak neudělal.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 82,
+    "locale": "cs-CZ",
+    "id": "recJJLk5gEL8wGWul"
+  },
+  {
+    "content": "Kdyby existoval stroj v čase, co tě přesune o 10 let zpět. Udělal/a bys to?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 83,
+    "locale": "cs-CZ",
+    "id": "recogtBi5ZaozM37O"
+  },
+  {
+    "content": "Právě jsi dostal druhou šanci, je ti 15 let, co bys udělal jinak a co stejně?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 84,
+    "locale": "cs-CZ",
+    "id": "recgJE7qypur7NlVx"
+  },
+  {
+    "content": "Kdo z nás je podle tebe nejúspěšnější?",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 85,
+    "locale": "cs-CZ",
+    "id": "recqts9CtMxe2plmI"
+  },
+  {
+    "content": "Kdo z přítomných podle tebe nejvíce mlsá po večerech?",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 86,
+    "locale": "cs-CZ",
+    "id": "recGEVRB3bv2cAZs2"
+  },
+  {
+    "content": "Komu z přítomných bys zavolal o radu, kdybys byl ve hře „Chcete být milionářem?“",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 87,
+    "locale": "cs-CZ",
+    "id": "rec4MyocPg6JeQYBV"
+  },
+  {
+    "content": "Komu ze svých přátel bys zavolal o radu, kdybys byl ve hře „Chcete být milionářem?“",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 88,
+    "locale": "cs-CZ",
+    "id": "recztepGq4aVtG1fM"
+  },
+  {
+    "content": "Jakou radu bys dal svému mladšímu já ohledně práce a peněz?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 89,
+    "locale": "cs-CZ",
+    "id": "recXgFeI839HEH3Rc"
+  },
+  {
+    "content": "Jaký návyk bys na sobě nejraději změnil, ale zatím ti to nejde?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 90,
+    "locale": "cs-CZ",
+    "id": "recQIRiv1NrOXQVWB"
+  },
+  {
+    "content": "Byl/a jsi někdy na sex párty?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 91,
+    "locale": "cs-CZ",
+    "id": "recLHFHBzdbjsEpPD"
+  },
+  {
+    "content": "Jaké bylo tvé nejhorší vysvědčení?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 92,
+    "locale": "cs-CZ",
+    "id": "recxS9notNHHK1BlX"
+  },
+  {
+    "content": "Jaký je nebo byl tvůj nejoblíbenější předmět ve škole?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 93,
+    "locale": "cs-CZ",
+    "id": "rec7YzvZ3eODpnJbu"
+  },
+  {
+    "content": "Rozešel/la ses někdy s partnerem proto, že přibral/přibrala?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 94,
+    "locale": "cs-CZ",
+    "id": "reclOL1PimpqG6PhJ"
+  },
+  {
+    "content": "Zaplatil jsi někdy za OnlyFans? Jak ses k tomu dostal/a?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 95,
+    "locale": "cs-CZ",
+    "id": "recueiy4R63r3yKyN"
+  },
+  {
+    "content": "Kterou část těla bys na sobě změnil, kdybys mohl/a?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 96,
+    "locale": "cs-CZ",
+    "id": "rec4f5BqY3xfwk9Zb"
+  },
+  {
+    "content": "Myslíš, že je možné být kamarád/ka s ex?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 97,
+    "locale": "cs-CZ",
+    "id": "recm9C8BX3NVXqzdS"
+  },
+  {
+    "content": "Jaké netradiční zvyky dodržujete nebo jste dodržovali o Vánocích ve tvé rodině?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 98,
+    "locale": "cs-CZ",
+    "id": "reczNlI6hCXvNsndC"
+  },
+  {
+    "content": "Byl jsi někdy na koncertě svého oblíbeného interpreta? Na kterém a kde?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 99,
+    "locale": "cs-CZ",
+    "id": "recduvlMZ9beczUFH"
+  },
+  {
+    "content": "Natočil jsi někdy soukromé sex video? Jak to dopadlo?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 100,
+    "locale": "cs-CZ",
+    "id": "recvZjUFrHaUVrhpL"
+  },
+  {
+    "content": "Pozvracel/a ses někdy při sexu?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 101,
+    "locale": "cs-CZ",
+    "id": "recmtH4KKtFCnReKi"
+  },
+  {
+    "content": "Byl/a jsi někdy v erotickém obchodě?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 102,
+    "locale": "cs-CZ",
+    "id": "recP7qtlGJFEEYoDw"
+  },
+  {
+    "content": "Vlastníš vibrátor?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 103,
+    "locale": "cs-CZ",
+    "id": "recp9pT2diEpO4VKJ"
+  },
+  {
+    "content": "Byl jsi někdy ve strip baru?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 104,
+    "locale": "cs-CZ",
+    "id": "recYhSuOs0MnhFSAb"
+  },
+  {
+    "content": "Předstíral/a jsi někdy orgasmus?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 105,
+    "locale": "cs-CZ",
+    "id": "recDssFzbPWtmPr0D"
+  },
+  {
+    "content": "Je délka penisu důležitá?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 106,
+    "locale": "cs-CZ",
+    "id": "recsYTeTye9fSw5W8"
+  },
+  {
+    "content": "Byl jsi někdy na operaci?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 107,
+    "locale": "cs-CZ",
+    "id": "recMpr4ZnXehr5JaP"
+  },
+  {
+    "content": "Byl jsi někdy v narkóze? Popiš, jaké to bylo.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 108,
+    "locale": "cs-CZ",
+    "id": "recKoGlx8vKuIZNkT"
+  },
+  {
+    "content": "Zkoušel jsi někdy psychodelika? Popiš, jaké to bylo.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 109,
+    "locale": "cs-CZ",
+    "id": "rec1V8AJZE9mn49Ov"
+  },
+  {
+    "content": "Jak by ses motivoval, cokoli dělat, když bys měl neomezeně moc peněz?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 110,
+    "locale": "cs-CZ",
+    "id": "recepX93CxEfSmpDX"
+  },
+  {
+    "content": "Je podle tebe v pohodě nakupovat něco na půjčku? Kdy ano a kdy ne?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 111,
+    "locale": "cs-CZ",
+    "id": "recNMkqFPDsrUYToz"
+  },
+  {
+    "content": "Máš kreditní kartu, kontokorent či jiný finanční produkt, který ti umožňuje jít do mínusu?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 112,
+    "locale": "cs-CZ",
+    "id": "rec3DzoFkLZZGN65Q"
+  },
+  {
+    "content": "Navštívil jsi někdy Slovensko? Poděl se o nějaký zážitek nebo zážitky.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 113,
+    "locale": "cs-CZ",
+    "id": "reciE7xOsXXTDlX28"
+  },
+  {
+    "content": "Navštívil jsi někdy Rakousko? Poděl se o nějaký zážitek nebo zážitky.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 114,
+    "locale": "cs-CZ",
+    "id": "rec592hJ0mP30nl4F"
+  },
+  {
+    "content": "Navštívil jsi někdy Chorvatsko? Poděl se o nějaký zážitek nebo zážitky.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 115,
+    "locale": "cs-CZ",
+    "id": "recS5e84IUnXAYVSL"
+  },
+  {
+    "content": "Navštívil jsi někdy Asii? Poděl se o nějaký zážitek nebo zážitky.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 116,
+    "locale": "cs-CZ",
+    "id": "recHdNPIwfhgPR0Za"
+  },
+  {
+    "content": "Co se ti vybaví, když se řekne ex-přítelkyně / ex-přítel?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 117,
+    "locale": "cs-CZ",
+    "id": "recSdePkwB9qMX5T0"
+  },
+  {
+    "content": "Co si myslíš o vegetarianství?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 118,
+    "locale": "cs-CZ",
+    "id": "recvbXCpueodKDpzc"
+  },
+  {
+    "content": "Co si myslíš o sdílení na sociálních sítích? Má to smysl?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 119,
+    "locale": "cs-CZ",
+    "id": "rec7fdihrvQT5xyol"
+  },
+  {
+    "content": "Kdo se ti vybaví, když se řekne \"slizoun\"?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 120,
+    "locale": "cs-CZ",
+    "id": "recvKtUUpPUZtAbRt"
+  },
+  {
+    "content": "Kdybys měl vsadit na někoho tady, že se rozbrečí u filmu, kdo to bude?",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 121,
+    "locale": "cs-CZ",
+    "id": "recEUq2iwNj4J68ap"
+  },
+  {
+    "content": "Co se ti vybaví za vzpomínku, když se řekne \"totální chaos\"?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 122,
+    "locale": "cs-CZ",
+    "id": "recZuMtYBuGsMSBkA"
+  },
+  {
+    "content": "Byl jsi někdy zatčen? Za co?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 123,
+    "locale": "cs-CZ",
+    "id": "rec7B70WjmKiTRdbd"
+  },
+  {
+    "content": "Co se ti vybaví, když se řekne: dovolená snů?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 124,
+    "locale": "cs-CZ",
+    "id": "recMeLvFe8QdHnoyj"
+  },
+  {
+    "content": "Co se ti vybaví, když se řekne: pátek večer?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 125,
+    "locale": "cs-CZ",
+    "id": "rec7U5kSDH7N9jbE1"
+  },
+  {
+    "content": "Jaká situace se ti vybaví, když se řekne: trapné ticho?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 126,
+    "locale": "cs-CZ",
+    "id": "recJktJ8uu8hVZs4c"
+  },
+  {
+    "content": "Jaký pocit máš, když se řekne: prázdná ulice?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 127,
+    "locale": "cs-CZ",
+    "id": "recOpXMSQQVDS9JSQ"
+  },
+  {
+    "content": "Co se ti vybaví, když se řekne: blikající světlo? Buď velmi konkrétní.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 128,
+    "locale": "cs-CZ",
+    "id": "recLTU7CmA3Y5fwpg"
+  },
+  {
+    "content": "Je podle tebe v pohodě chodit k psychlogovi?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 129,
+    "locale": "cs-CZ",
+    "id": "recqUwFwutG82XqHU"
+  },
+  {
+    "content": "Kdo v místnosti s největší pravděpodobností neodpoví na zprávu, ani poté, co si ji přečte?",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 130,
+    "locale": "cs-CZ",
+    "id": "recuBS8Y3HaOgN0vP"
+  },
+  {
+    "content": "Jak si myslíš, že tě vidí ten druhý? Popiš se jeho/jejíma očima. Pak ať řekne, jestli souhlasí.",
+    "type": "truth",
+    "tags": "friends,couples",
+    "is_erotic": "",
+    "order_id": 131,
+    "locale": "cs-CZ",
+    "id": "reca0P9GIC6gbpoY0"
+  },
+  {
+    "content": "Jak si myslíš, že tě vidí ostatní v této skupině? Popiš se jejich očima, a oni řeknou, jestli souhlasí.",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 132,
+    "locale": "cs-CZ",
+    "id": "recNpvQHHCwW2lUp9"
+  },
+  {
+    "content": "Jaký máš názor na alkohol. Pít, nebo nepít? Trochu to rozveď.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 133,
+    "locale": "cs-CZ",
+    "id": "recshU4XbVKMzJd8K"
+  },
+  {
+    "content": "Jel/a jsi někdy na motorce?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 134,
+    "locale": "cs-CZ",
+    "id": "recq7yNngjN1DLhJL"
+  },
+  {
+    "content": "Zkusil/a jsi někdy erotickou masáž? Pokud ne, zkusil/a bys?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 135,
+    "locale": "cs-CZ",
+    "id": "recAQL0payS8KJnf3"
+  },
+  {
+    "content": "Jaké substance jsi za život vyzkoušel/a? Alkohol, káva, tráva, cigarety…?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 136,
+    "locale": "cs-CZ",
+    "id": "recr8LP6i3P0gTiyg"
+  },
+  {
+    "content": "V ideálním vztahu, jak často byste spolu trávili čas?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 137,
+    "locale": "cs-CZ",
+    "id": "recuhe45JV7ue1ket"
+  },
+  {
+    "content": "Vlastníš nějaká aktiva? Rozuměj: akcie, nemovitosti, drahé kovy, firmy…",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 138,
+    "locale": "cs-CZ",
+    "id": "recIKV5dtvMSLIlza"
+  },
+  {
+    "content": "Co si myslíš o lidech, kteří porušují dopravní předpisy?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 139,
+    "locale": "cs-CZ",
+    "id": "recbgmpAHZIrf9xqO"
+  },
+  {
+    "content": "Jaký je tvůj názor na podnikatelé?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 140,
+    "locale": "cs-CZ",
+    "id": "recFfWWTMNCDq5rZw"
+  },
+  {
+    "content": "Je podle tebe správné dávat peníze žebrákům?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 141,
+    "locale": "cs-CZ",
+    "id": "rec76HTlL1C2hQct5"
+  },
+  {
+    "content": "Řídil/a jsi někdy opilý/á? Popiš.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 142,
+    "locale": "cs-CZ",
+    "id": "rect4CksMhqH398VA"
+  },
+  {
+    "content": "Hraješ na nějaký hudební nástroj?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 143,
+    "locale": "cs-CZ",
+    "id": "recZOl5G8YIyhyFVi"
+  },
+  {
+    "content": "Jak podle tebe do budoucna řešit problém ubývající práce kvůli AI a robotizaci?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 144,
+    "locale": "cs-CZ",
+    "id": "recbKDwnXenJScmqA"
+  },
+  {
+    "content": "Je něco, co jsi dříve dělal/a a nyní se za to stydíš?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 145,
+    "locale": "cs-CZ",
+    "id": "recfwEAWg0qqL0F2X"
+  },
+  {
+    "content": "Je někdo, koho bys po dlouhé době rád/a viděl/a, ale nějak se k tomu nemůžeš rozhoupat?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 146,
+    "locale": "cs-CZ",
+    "id": "reciz426zNIKsX61c"
+  },
+  {
+    "content": "Vzpomeneš si na něco, co jsi dřív odsuzoval, ale dnes to také děláš?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 147,
+    "locale": "cs-CZ",
+    "id": "recDyERhulaGEmcbI"
+  },
+  {
+    "content": "Vrátil/a ses někdy k bývalému partnerovi nebo partnerce? A jak to dopadlo?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 148,
+    "locale": "cs-CZ",
+    "id": "recYVRkahz9vVz0N8"
+  },
+  {
+    "content": "Jaká je tvoje dobrá vlastnost, která ti zároveň tak trochu komplikuje život?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 149,
+    "locale": "cs-CZ",
+    "id": "reckG1ciBACScuhED"
+  },
+  {
+    "content": "Co o tobě lidé často špatně odhadnou?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 150,
+    "locale": "cs-CZ",
+    "id": "recDxqWTc5IiGPje4"
+  },
+  {
+    "content": "Kdy ses naposledy cítil/a opravdu mimo svoji komfortní zónu?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 151,
+    "locale": "cs-CZ",
+    "id": "recGK4lxpwkziVIAP"
+  },
+  {
+    "content": "Jaký kompliment si pamatuješ dodnes?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 152,
+    "locale": "cs-CZ",
+    "id": "recrcClkvnxS1vW6Y"
+  },
+  {
+    "content": "Co na ostatních lidech nemůžeš vystát?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 153,
+    "locale": "cs-CZ",
+    "id": "recuIssY18DFRMkEN"
+  },
+  {
+    "content": "Kdy naposledy ses někdy tvářil/a, že něčemu rozumíš, i když vůbec? (Pokud je tohle ta otázka, přečti si ji ještě jednou.)",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 154,
+    "locale": "cs-CZ",
+    "id": "recES7CBCYf8gvtLC"
+  },
+  {
+    "content": "Koho z této místnosti jsi si všiml/a jako prvního?",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 155,
+    "locale": "cs-CZ",
+    "id": "recD35WFTlqmU9vbx"
+  },
+  {
+    "content": "Ukázal/a jsi někdy někomu prostředníček, a daná osoba si to zasloužil/a?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 156,
+    "locale": "cs-CZ",
+    "id": "recUBHGuDHeoVWDmj"
+  },
+  {
+    "content": "Ukázal/a jsi někdy někomu prostředníček úplně bezdůvodně, jen tak pro vlastní pobavení?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 157,
+    "locale": "cs-CZ",
+    "id": "reckkSpRU9APtsbBR"
+  },
+  {
+    "content": "Vzpomeneš si na nějakou opravdu línou věc, kterou jsi udělal/a?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 158,
+    "locale": "cs-CZ",
+    "id": "recOifqkbOHQWAKy6"
+  },
+  {
+    "content": "Co děláš, když chceš rychle ukončit konverzaci? Buď konkrétní!",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 159,
+    "locale": "cs-CZ",
+    "id": "recSg8i7opK1tFSDY"
+  },
+  {
+    "content": "Viděl/a jsi někdy hada ve volné přírodě? Popiš situaci.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 160,
+    "locale": "cs-CZ",
+    "id": "reci9Wc4IJuDWJiZQ"
+  },
+  {
+    "content": "Jaké je nejnebezpečnější zvíře, které jsi viděl/a ve volné přírodě?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 161,
+    "locale": "cs-CZ",
+    "id": "rec1wXYwiX7AxQ9cJ"
+  },
+  {
+    "content": "Kdybys sis musel/a vybrat jednoho člověka z této skupiny, s kým bys strávil/a rok na opuštěném ostrově, kdo by to byl?",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 162,
+    "locale": "cs-CZ",
+    "id": "reclvXtcXqwvIjmhc"
+  },
+  {
+    "content": "Kdo z tého skupiny lidí je podle tebe nejhorší spolubydlící a proč?",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 163,
+    "locale": "cs-CZ",
+    "id": "recnLTTtKYHmEY7Rt"
+  },
+  {
+    "content": "Jsi podle tebe na něčem závislý? Na čem?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 164,
+    "locale": "cs-CZ",
+    "id": "recHmQuAoPDEO1TOz"
+  },
+  {
+    "content": "Už ses někdy přistihl, že čteš staré konverzace?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 165,
+    "locale": "cs-CZ",
+    "id": "recy0lTSP21t3KUHn"
+  },
+  {
+    "content": "Už ses někdy přistihl/a, že si představuješ s*x s holkou/klukem, kterého/kterou vidíš na ulici?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 166,
+    "locale": "cs-CZ",
+    "id": "recS0aULneY4mpDq3"
+  },
+  {
+    "content": "Už ses někdy přistihl/a, že doufáš, že někdo zruší plány, abys je nemusel/a rušit ty?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 167,
+    "locale": "cs-CZ",
+    "id": "recM8FihDKY4dobX7"
+  },
+  {
+    "content": "Co se ti vybaví za vzpomínka, když se řekne: nepovedené rande?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 168,
+    "locale": "cs-CZ",
+    "id": "rec9QogUutZfoKyqc"
+  },
+  {
+    "content": "Co se ti vybaví za vzpomínka, když se řekne: nejhorší sex?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 169,
+    "locale": "cs-CZ",
+    "id": "recUhWtYTiPWBFKCb"
+  },
+  {
+    "content": "Co se ti vybaví za vzpomínka, když se řekne: rodinná oslava?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 170,
+    "locale": "cs-CZ",
+    "id": "recB3Ja3zo91MNms8"
+  },
+  {
+    "content": "Co se ti vybaví za vzpomínka, když se řekne: asiatka?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 171,
+    "locale": "cs-CZ",
+    "id": "recFfkM84al7ufkm7"
+  },
+  {
+    "content": "Co se ti vybaví za vzpomínka, když se řekne: černoch?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 172,
+    "locale": "cs-CZ",
+    "id": "recsAwKwRUxDjp5EE"
+  },
+  {
+    "content": "Co se ti vybaví za vzpomínka, když se řekne: \"to bylo těsný!\"?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 173,
+    "locale": "cs-CZ",
+    "id": "recIBLJcNAc8VX9hH"
+  },
+  {
+    "content": "Co se ti vybaví za vzpomínka, když se řekne: zvracení?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 174,
+    "locale": "cs-CZ",
+    "id": "recpUjoUCenOwAgxM"
+  },
+  {
+    "content": "Co se ti vybaví, když se řekne: paleontolog?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 175,
+    "locale": "cs-CZ",
+    "id": "rec3H0t2ynvOefVBK"
+  },
+  {
+    "content": "Co se ti vybaví, když se řekne: přátelé?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 176,
+    "locale": "cs-CZ",
+    "id": "recztzxhg0o0un1Nx"
+  },
+  {
+    "content": "Jaký seriál můžeš sledovat donekonečna a pořád tě baví?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 177,
+    "locale": "cs-CZ",
+    "id": "recDPy4P7QwrktUL9"
+  },
+  {
+    "content": "Existuje film, který jsi viděl/a více než 10x? Přiznej jaký!",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 178,
+    "locale": "cs-CZ",
+    "id": "recXnYsdoApVolhsd"
+  },
+  {
+    "content": "Co se ti vybaví, když se řekne: nejhorší účes?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 179,
+    "locale": "cs-CZ",
+    "id": "reckKYSOxNoVVd0g1"
+  },
+  {
+    "content": "Co se ti vybaví za vzpomínka, když se řekne: nervózní?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 180,
+    "locale": "cs-CZ",
+    "id": "recMNwajuRzfVZl1Z"
+  },
+  {
+    "content": "Co se ti vybaví za vzpomínka, když se řekne: \"no konečně!\"?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 181,
+    "locale": "cs-CZ",
+    "id": "recXvIMt8QPZ92X72"
+  },
+  {
+    "content": "Co se ti vybaví za vzpomínka, když se řekne: nečekaný zvrat?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 182,
+    "locale": "cs-CZ",
+    "id": "recU3fMBCWrZTGGUg"
+  },
+  {
+    "content": "Co se ti vybaví za vzpomínka, když se řekne: nepovedený vtip?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 183,
+    "locale": "cs-CZ",
+    "id": "rec3wzURoNgi3Tzqu"
+  },
+  {
+    "content": "Co se ti vybaví za vzpomínka, když se řekne: povedený vtip?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 184,
+    "locale": "cs-CZ",
+    "id": "rec820JYnh1b10Fnk"
+  },
+  {
+    "content": "Myslíš si o sobě, že jsi úspěšný/ná?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 185,
+    "locale": "cs-CZ",
+    "id": "recGLYNlZsGn7SP4H"
+  },
+  {
+    "content": "Kdybys musel/a zmínit jeden velký úspěch, na který jsi pyšný/pyšná, co by to bylo?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 186,
+    "locale": "cs-CZ",
+    "id": "rec5VzocOafcgtvCx"
+  },
+  {
+    "content": "Pokousal tě někdy pes?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 187,
+    "locale": "cs-CZ",
+    "id": "recOG2ZXbIukFMyrN"
+  },
+  {
+    "content": "Kde jsi nejvíce lechtivý/á?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 188,
+    "locale": "cs-CZ",
+    "id": "recSDqOlJhh8KBfoJ"
+  },
+  {
+    "content": "Chodíš doma někdy nahatý/á? Pokud ano, tak jak často?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 189,
+    "locale": "cs-CZ",
+    "id": "reck1TypI1XQtcuYv"
+  },
+  {
+    "content": "Kdo na tebe má nejvíce kompromitujících fotografií?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 190,
+    "locale": "cs-CZ",
+    "id": "rec4d27GecSdDTh35"
+  },
+  {
+    "content": "Kdo o tobě ví nejvíce?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 191,
+    "locale": "cs-CZ",
+    "id": "reciGAlInynLt92dz"
+  },
+  {
+    "content": "Jaký nejhloupější dárek jsi kdy někomu dal?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 192,
+    "locale": "cs-CZ",
+    "id": "recLFx8DwHmhLP6eo"
+  },
+  {
+    "content": "Myslíš si o sobě, že jsi chytrý/á?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 193,
+    "locale": "cs-CZ",
+    "id": "recnF4NKktQRs2huM"
+  },
+  {
+    "content": "Kdy je podle tebe v pořádku lhát?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 194,
+    "locale": "cs-CZ",
+    "id": "recWO3ewdUbOk9oEZ"
+  },
+  {
+    "content": "Jakou poslední knihu jsi přečetl/a?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 195,
+    "locale": "cs-CZ",
+    "id": "recCZRwtqL6NVIwnm"
+  },
+  {
+    "content": "Kdybys mohl/a zkusit žít kdekoli na světě, kde by to bylo?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 196,
+    "locale": "cs-CZ",
+    "id": "rec0MpZgWvK45sl00"
+  },
+  {
+    "content": "Co by sis pořídil/a, kdybys měl/a povinnost dnes utratit 100 000 Kč?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 197,
+    "locale": "cs-CZ",
+    "id": "recnZbL2vw4IwAwu7"
+  },
+  {
+    "content": "Jsi po shlédnutí hororu chvíli víc paranoidní než obvykle?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 198,
+    "locale": "cs-CZ",
+    "id": "recAS10BSzRsfpYDH"
+  },
+  {
+    "content": "Prodával/a jsi někdy něco online? Máš nějaká zajímavé setkání s kupujícím a jak to proběhlo?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 199,
+    "locale": "cs-CZ",
+    "id": "rec7rf1XcaH3nTPRj"
+  },
+  {
+    "content": "Naletěl/a jsi někdy na scam/podvod? O co šlo?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 200,
+    "locale": "cs-CZ",
+    "id": "reco87hRRjmLLGWuF"
+  },
+  {
+    "content": "Musel jsi někdy zůstat přes noc v nemocnici?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 201,
+    "locale": "cs-CZ",
+    "id": "recHgRuKJemPLGsC2"
+  },
+  {
+    "content": "Dozvěděl/a ses v posledních dnech něco zajímavého?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 202,
+    "locale": "cs-CZ",
+    "id": "reca5cDZR5IDJejkx"
+  },
+  {
+    "content": "S kým bys tady šel/šla na rande, kdybys musel/a vybrat?",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 203,
+    "locale": "cs-CZ",
+    "id": "recyo3E5i80y8oTFB"
+  },
+  {
+    "content": "Kdybys měl/a dát jednu radu svému mladšímu já, jaká by byla?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 204,
+    "locale": "cs-CZ",
+    "id": "recC6Oh7UekdYSnzA"
+  },
+  {
+    "content": "Kdybys sis měl/a vyměnit život s někým tady, kdo by to byl?",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 205,
+    "locale": "cs-CZ",
+    "id": "recBTTNOSNxp1iONc"
+  },
+  {
+    "content": "Jakou nejhorší zprávu jsi kdy omylem poslal/a špatné osobě?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 206,
+    "locale": "cs-CZ",
+    "id": "rec6fGdHft25TjKWM"
+  },
+  {
+    "content": "Co ti na druhém člověku tady občas leze na nervy?",
+    "type": "truth",
+    "tags": "friends,couples",
+    "is_erotic": "",
+    "order_id": 207,
+    "locale": "cs-CZ",
+    "id": "recuSt2EUgTF8vmDU"
+  },
+  {
+    "content": "Co si myslíš, že si o nás myslí ostatní?",
+    "type": "truth",
+    "tags": "couples",
+    "is_erotic": "",
+    "order_id": 208,
+    "locale": "cs-CZ",
+    "id": "rec1baesdfUwm69dV"
+  },
+  {
+    "content": "S kým odsud by ses nejvíc bál/a uvíznout ve výtahu. Proč?",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 209,
+    "locale": "cs-CZ",
+    "id": "recrAjcGs2DC7hjvj"
+  },
+  {
+    "content": "Kdyby tvůj život jako celek měl filmový název, jak by se jmenoval?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 210,
+    "locale": "cs-CZ",
+    "id": "recsuRBhjvZ7sZBa2"
+  },
+  {
+    "content": "Kdyby posledních 12 měsíců tvého života byl film, jaký by měl název a žánr?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 211,
+    "locale": "cs-CZ",
+    "id": "recquzNhSpB0QLnki"
+  },
+  {
+    "content": "Kdybys byl/a emoce, která bys byl/a?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 212,
+    "locale": "cs-CZ",
+    "id": "reciILmB5zWidU8o1"
+  },
+  {
+    "content": "Co je něco, co děláš jinak než 90 % lidí?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 213,
+    "locale": "cs-CZ",
+    "id": "recYF2sTCrhHPW8UR"
+  },
+  {
+    "content": "Co je věc, kterou víš, že bys měl/a změnit, ale zatím to odkládáš?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 214,
+    "locale": "cs-CZ",
+    "id": "rechTIU8h5NdGU9JV"
+  },
+  {
+    "content": "Jakou písničku bys chtěl/a, aby se hrála na tvém pohřbu?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 215,
+    "locale": "cs-CZ",
+    "id": "recwDjf2s2EwjhRF8"
+  },
+  {
+    "content": "Kdo tady působí nevinně, ale není?",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 216,
+    "locale": "cs-CZ",
+    "id": "recldSOPPKbRs1QVj"
+  },
+  {
+    "content": "Stopoval/a jsi někdy? Popiš nějaký zážitek.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 217,
+    "locale": "cs-CZ",
+    "id": "recYKqOJru1Dyrsyp"
+  },
+  {
+    "content": "Spal/a jsi někdy v přírodě. Ve stanu nebo pod širákem?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 218,
+    "locale": "cs-CZ",
+    "id": "recS2yzpQPtrZqObK"
+  },
+  {
+    "content": "Který rok byl pro tebe finančně nejúspěšnější?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 219,
+    "locale": "cs-CZ",
+    "id": "rec5NfHyynSPhBtBG"
+  },
+  {
+    "content": "Co si myslíš o lidech, kteří nesledují aktuální dění?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 220,
+    "locale": "cs-CZ",
+    "id": "recEtBmN0Ibs5J3uX"
+  },
+  {
+    "content": "Co si myslíš o lidech, kteří nechodí k volbám?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 221,
+    "locale": "cs-CZ",
+    "id": "reclnakkxLcSVBnbH"
+  },
+  {
+    "content": "Co si myslíš o lidech, kteří nenosí deodorant?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 222,
+    "locale": "cs-CZ",
+    "id": "reckemXNb43WLVAHZ"
+  },
+  {
+    "content": "Co si myslíš o mužích, co nosí vlasy do culíku?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 223,
+    "locale": "cs-CZ",
+    "id": "rec3JTNEBA0XGhPrz"
+  },
+  {
+    "content": "Co si myslíš o lidech, kteří mají vlasy buzzcut (vojenský sestřih, strojkem)?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 224,
+    "locale": "cs-CZ",
+    "id": "recqlpKTeYCIQlIOi"
+  },
+  {
+    "content": "Znáš někoho kdo jezdí na koni? Je podle tebe divnej/divná?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 225,
+    "locale": "cs-CZ",
+    "id": "rec0T8FptMAHOGawy"
+  },
+  {
+    "content": "Kdo je aktuální český premiér? Jak moc sleduješ aktuální dění?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 226,
+    "locale": "cs-CZ",
+    "id": "rec5xvtOrkmmDrKgx"
+  },
+  {
+    "content": "Patří hraní videoher mezi tvoje koníčky? Pokud ano, jaké jsou tvoje oblíbené hry?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 227,
+    "locale": "cs-CZ",
+    "id": "reclhT8qUXeLUrUCY"
+  },
+  {
+    "content": "Byl/a jsi někdy vzhůru non-stop? Roz.: vynechal/a jsi někdy jednu noc spánku a spal/a až tu další?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 228,
+    "locale": "cs-CZ",
+    "id": "recY7EsnLtWBj2i1d"
+  },
+  {
+    "content": "Jsi spíše noční sova nebo ranní ptáče?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 229,
+    "locale": "cs-CZ",
+    "id": "recUYVqAeoyyOpBDV"
+  },
+  {
+    "content": "Jaká byla tvoje cesta k současné práci nebo hlavnímu zájmu?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 230,
+    "locale": "cs-CZ",
+    "id": "recGQAiruhUlygK4C"
+  },
+  {
+    "content": "Střílel/a jsi někdy z reálné pistole?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 231,
+    "locale": "cs-CZ",
+    "id": "rec26wHo9OsmWqV2S"
+  },
+  {
+    "content": "Hrál/a jsi někdy únikovou hru? Líbilo se ti to, případně chtěl/a bys to zkusit?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 232,
+    "locale": "cs-CZ",
+    "id": "rec1FoDbPSFfiSgOC"
+  },
+  {
+    "content": "Hrál/a jsi někdy laser game? Líbilo se ti to, případně chtěl/a bys to zkusit?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 233,
+    "locale": "cs-CZ",
+    "id": "recjbXcINEzzvCcNW"
+  },
+  {
+    "content": "Hrál/a jsi někdy paintball? Líbilo se ti to, případně chtěl/a bys to zkusit?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 234,
+    "locale": "cs-CZ",
+    "id": "recj77ncD3Bv2no1u"
+  },
+  {
+    "content": "Máš rád/a horské dráhy? Kde byla nejšílenější horská dráha, kterou jsi vyzkoušel/a?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 235,
+    "locale": "cs-CZ",
+    "id": "recueWCrUvDGJ56G7"
+  },
+  {
+    "content": "Kdo je aktuální americký prezident? Jak moc sleduješ aktuální dění?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 236,
+    "locale": "cs-CZ",
+    "id": "recK9NdqANvTujWch"
+  },
+  {
+    "content": "Je podle tebe důležitější cena, nebo kvalita?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 237,
+    "locale": "cs-CZ",
+    "id": "rec5q7sFL6fgLLeXq"
+  },
+  {
+    "content": "Ochutnal/a jsi někdy sperma?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 238,
+    "locale": "cs-CZ",
+    "id": "recGCQHLUvDARw7rg"
+  },
+  {
+    "content": "Je někdo z tvého okolí, ke komu tajně vzhlížíš nebo jsi vzhlížel/a?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 239,
+    "locale": "cs-CZ",
+    "id": "recuBqROZrNoLqACT"
+  },
+  {
+    "content": "Máš někoho, kdo tě v životě fakt hodně inspiroval? Proč právě on/ona?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 240,
+    "locale": "cs-CZ",
+    "id": "rec7fviVhw7SCGU96"
+  },
+  {
+    "content": "Kdo by tady dokázal vést kult?",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 241,
+    "locale": "cs-CZ",
+    "id": "rec6oIBo1daPxs9KF"
+  },
+  {
+    "content": "Kdo z nás tady má s největší pravděpodobností tajný život?",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 242,
+    "locale": "cs-CZ",
+    "id": "recJa22ymW1rsIMn0"
+  },
+  {
+    "content": "Co na ostatních lidech nemůžeš vystát, ale sám to děláš?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 243,
+    "locale": "cs-CZ",
+    "id": "recA0e6HSAqCKfZRJ"
+  },
+  {
+    "content": "Co děláš, když se chceš vyhnout někomu, koho potkáš na ulici?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 244,
+    "locale": "cs-CZ",
+    "id": "recd4ZmdTrUYc9mAH"
+  },
+  {
+    "content": "Kdy ses naposledy vymluvil na nemoc a proč?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 245,
+    "locale": "cs-CZ",
+    "id": "rectZ8n9T9uClPCQz"
+  },
+  {
+    "content": "Potkal/a jsi někdy nějakou celebritu? Popiš, klidně několik?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 246,
+    "locale": "cs-CZ",
+    "id": "reclUSBiUJSohRE6V"
+  },
+  {
+    "content": "Bavil/a ses někdy anglicky s někým v zahraničí? Jak ti to šlo? Popiš své poprvé.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 247,
+    "locale": "cs-CZ",
+    "id": "recg49jYwV9VaovJw"
+  },
+  {
+    "content": "Měl/a jsi někdy jet lag?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 248,
+    "locale": "cs-CZ",
+    "id": "recVcrFQ96Nf3WFud"
+  },
+  {
+    "content": "Raději bys spal s opačným pohlavím, které je 1/10, nebo se stejným pohlavím, které je 10/10?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 249,
+    "locale": "cs-CZ",
+    "id": "recLD8U6P1a0oHosj"
+  },
+  {
+    "content": "Udělal ses někdy dovnitř? Udělal se do tebe někdy někdo?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 250,
+    "locale": "cs-CZ",
+    "id": "recruw2AhGHmOkCNk"
+  },
+  {
+    "content": "Boxerky nebo slipy?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 251,
+    "locale": "cs-CZ",
+    "id": "rec6xaPpqm0UW6SKZ"
+  },
+  {
+    "content": "Věříš na mimozemšťany?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 252,
+    "locale": "cs-CZ",
+    "id": "rec2yiikCuVWkwyDw"
+  },
+  {
+    "content": "Věříš na nějaké pověry? Pokud ano, které?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 253,
+    "locale": "cs-CZ",
+    "id": "recQqc3d6tqN8RdRY"
+  },
+  {
+    "content": "Věříš na spřízněné duše?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 254,
+    "locale": "cs-CZ",
+    "id": "recj5LBcb7wfnXF2L"
+  },
+  {
+    "content": "Máš nějaké skryté talenty? Jaké jsou?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 255,
+    "locale": "cs-CZ",
+    "id": "recuKX3MT3gNB8QrD"
+  },
+  {
+    "content": "Čůráš ve sprše?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 256,
+    "locale": "cs-CZ",
+    "id": "recWplLxQ9gLR6eMv"
+  },
+  {
+    "content": "Chováš stále city k některému ze svých bývalých?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 257,
+    "locale": "cs-CZ",
+    "id": "rechekagVQdkDNPsj"
+  },
+  {
+    "content": "Myslíš si, že nevěra může být někdy ospravedlnitelná? Kdy a jak?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 258,
+    "locale": "cs-CZ",
+    "id": "recOcG22YLqnAFNWu"
+  },
+  {
+    "content": "Byl/a jsi někdy propuštěn z práce?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 259,
+    "locale": "cs-CZ",
+    "id": "rec1DebfLXczz4rLJ"
+  },
+  {
+    "content": "Byl/a jsi někdy vyhozen z veřejného místa?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 260,
+    "locale": "cs-CZ",
+    "id": "recWCqTXhKGfr1MDw"
+  },
+  {
+    "content": "Byl/a jsi někdy vyhozen z baru?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 261,
+    "locale": "cs-CZ",
+    "id": "recWktjyzD4IRO3Sp"
+  },
+  {
+    "content": "Rozbil/a jsi někdy ze vzteku nějakou věc?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 262,
+    "locale": "cs-CZ",
+    "id": "rec27co9IloNzjMpd"
+  },
+  {
+    "content": "Zlomil/a jsi někdy někomu srdce?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 263,
+    "locale": "cs-CZ",
+    "id": "recDtC7jk1W1QBnNi"
+  },
+  {
+    "content": "Porušil/a jsi někdy zákon?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 264,
+    "locale": "cs-CZ",
+    "id": "reciBWh9ggmlUiii4"
+  },
+  {
+    "content": "Podváděl/a  jsi někdy při zkoušce?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 265,
+    "locale": "cs-CZ",
+    "id": "recw1VJxFvx2AFGqv"
+  },
+  {
+    "content": "Chodil/a jsi někdy s někým jen kvůli sexu?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 266,
+    "locale": "cs-CZ",
+    "id": "rec9NtyoCrfUZs7ym"
+  },
+  {
+    "content": "Flirtoval/a jsi někdy se sourozencem blízkého kamaráda?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 267,
+    "locale": "cs-CZ",
+    "id": "recCgu82zBEq8r2sU"
+  },
+  {
+    "content": "Měl/a jsi někdy paranormální zážitek?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 268,
+    "locale": "cs-CZ",
+    "id": "recY6X4yKfTm7EJo3"
+  },
+  {
+    "content": "Už ti někdy někdo věštil budoucnost?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 269,
+    "locale": "cs-CZ",
+    "id": "recr0OBpUHEVVMJj8"
+  },
+  {
+    "content": "Nechal/a jsi někdy někoho, aby na sebe vzal/a vinu za něco, co jsi udělal/a ty?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 270,
+    "locale": "cs-CZ",
+    "id": "recyvg7QZQtYm6dZ2"
+  },
+  {
+    "content": "Už ses se někdy vyčůral/a do bazénu?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 271,
+    "locale": "cs-CZ",
+    "id": "recIhf3TyYtjsJBLE"
+  },
+  {
+    "content": "Už jsi někdy daroval dárek, který jsi sám od někoho dostal?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 272,
+    "locale": "cs-CZ",
+    "id": "recvfLgTZa93XbMqJ"
+  },
+  {
+    "content": "Přál/a sis někdy, abychom opět žili v komunismu?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 273,
+    "locale": "cs-CZ",
+    "id": "recboK0Lu6hnZHdL6"
+  },
+  {
+    "content": "Zvracel/a jsi někdy na veřejnosti?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 274,
+    "locale": "cs-CZ",
+    "id": "recRueAqEvh5A8brA"
+  },
+  {
+    "content": "Kupoval/a jsi někdy alkohol jako nezletilý/á? Popiš, jak to šlo.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 275,
+    "locale": "cs-CZ",
+    "id": "reccIHaAKicsHzAmQ"
+  },
+  {
+    "content": "Jak dlouho máš svůj nejstarší kus spodního prádla?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 276,
+    "locale": "cs-CZ",
+    "id": "rec8Mao3TzCOdfCNS"
+  },
+  {
+    "content": "Jak dlouho trval tvůj nejdelší vztah?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 277,
+    "locale": "cs-CZ",
+    "id": "recTWsDbv2DLv3AUC"
+  },
+  {
+    "content": "Jaká byla tvoje poslední lež?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 278,
+    "locale": "cs-CZ",
+    "id": "recDk3EvcdcFL1L7S"
+  },
+  {
+    "content": "Srazil/a jsi někdy něco (nebo někoho!) omylem autem?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 279,
+    "locale": "cs-CZ",
+    "id": "recfLhm8zwxXPwn9b"
+  },
+  {
+    "content": "Jaká je tvá nejbizarnější přezdívka?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 280,
+    "locale": "cs-CZ",
+    "id": "recZHZQNi78d9Cgj1"
+  },
+  {
+    "content": "Jaký byl tvůj nejbolestivější fyzický zážitek?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 281,
+    "locale": "cs-CZ",
+    "id": "recYZetOAyW09kSAa"
+  },
+  {
+    "content": "Rozbrečel/a ses někdy na veřejnosti?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 282,
+    "locale": "cs-CZ",
+    "id": "rec3atPC0aNz6c4qZ"
+  },
+  {
+    "content": "Kdybys potkal/a džina, jaká by byla tvá tři přání?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 283,
+    "locale": "cs-CZ",
+    "id": "recJqDjQlufntAAn1"
+  },
+  {
+    "content": "Jakou věc bys udělal/a, kdybys věděl/a, že to nebude mít žádné následky?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 284,
+    "locale": "cs-CZ",
+    "id": "recAUn7DV9vQyiwnb"
+  },
+  {
+    "content": "Pózuješ někdy před zrcadlem své bicepsy?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 285,
+    "locale": "cs-CZ",
+    "id": "recJDhhN562wdJX9o"
+  },
+  {
+    "content": "Pózuješ někdy před zrcadlem svůj zadek?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 286,
+    "locale": "cs-CZ",
+    "id": "recnj6I9OSjSk5wdV"
+  },
+  {
+    "content": "Jaký byl největší věkový rozdíl mezi tebou a někým, s kým jsi randil/a?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 287,
+    "locale": "cs-CZ",
+    "id": "recEzfadxhaEwnou8"
+  },
+  {
+    "content": "Díváš se někdy na por**?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 288,
+    "locale": "cs-CZ",
+    "id": "recec1Qqxempnru9Z"
+  },
+  {
+    "content": "Na jaké mobilní aplikaci ztrácíš nejvíce času?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 289,
+    "locale": "cs-CZ",
+    "id": "recL3TqpGYGHmLWiH"
+  },
+  {
+    "content": "Co v letadle děláš, co by ostatním mohlo připadat zvláštní?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 290,
+    "locale": "cs-CZ",
+    "id": "recmbT01yXzKcATUn"
+  },
+  {
+    "content": "Mluvíš někdy sám/sama se sebou?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 291,
+    "locale": "cs-CZ",
+    "id": "recoChfKyscIj5MNJ"
+  },
+  {
+    "content": "S jakým věkově nejmladším partnerem bys chodil?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 292,
+    "locale": "cs-CZ",
+    "id": "recubDiNWoutZChiP"
+  },
+  {
+    "content": "S jakým věkově nejstarším partnerem bys chodil?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 293,
+    "locale": "cs-CZ",
+    "id": "rec042JZttxKexprj"
+  },
+  {
+    "content": "Z čeho máš ve vztahu největší strach?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 294,
+    "locale": "cs-CZ",
+    "id": "recAN0qNUXG113O5T"
+  },
+  {
+    "content": "Jaký je tvůj největší problém s osobou po tvé levici?",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 295,
+    "locale": "cs-CZ",
+    "id": "recopcjPMI9mQxYVj"
+  },
+  {
+    "content": "Chrápeš?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 296,
+    "locale": "cs-CZ",
+    "id": "recudows2pYonnBEA"
+  },
+  {
+    "content": "Prdl/prdla sis někdy a najednou zjistil/a, že to bylo víc než jen prd? Co jsi dělal/a?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 297,
+    "locale": "cs-CZ",
+    "id": "rec8qpJTW4DfZ2e9S"
+  },
+  {
+    "content": "Mluvíš ze spaní?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 298,
+    "locale": "cs-CZ",
+    "id": "recrKcstUqhqomc9o"
+  },
+  {
+    "content": "Měříš si spánek pomocí nějakého trackeru? Například Apple Watch, Oura Ring nebo jiného zařízení? Kolik hodin průměrně spíš?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 299,
+    "locale": "cs-CZ",
+    "id": "recigmi9DBSJ97T1R"
+  },
+  {
+    "content": "Jaká je nějaká zbytečná znalost či dovednost, kterou máš?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 300,
+    "locale": "cs-CZ",
+    "id": "recUg2dsNeSYsfvr2"
+  },
+  {
+    "content": "Kolik hodin spánku potřebuješ?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 301,
+    "locale": "cs-CZ",
+    "id": "recrNgixTnbop7Lum"
+  },
+  {
+    "content": "V kolik hodin běžně chodíš spát?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 302,
+    "locale": "cs-CZ",
+    "id": "recM64A4ZQkb1JLNZ"
+  },
+  {
+    "content": "Kdyby ti došel toaletní papír, utřel/a by ses prázdnou rolí?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 303,
+    "locale": "cs-CZ",
+    "id": "recF5TTHednLjjruy"
+  },
+  {
+    "content": "Kdybys mohl/a do konce života říct jen jednu nadávku, kterou by sis vybral?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 304,
+    "locale": "cs-CZ",
+    "id": "recK2ARG1wodAoGXK"
+  },
+  {
+    "content": "Které zvíře nejlépe vystihuje tvůj styl stravování?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 305,
+    "locale": "cs-CZ",
+    "id": "recnlHV1A8cfA17BH"
+  },
+  {
+    "content": "Měl/a jsi někdy vztah na dálku?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 306,
+    "locale": "cs-CZ",
+    "id": "recQcwwWC2vKqm2xZ"
+  },
+  {
+    "content": "Které rande bylo ve tvém životě nejvíc netradiční?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 307,
+    "locale": "cs-CZ",
+    "id": "recMmGBFbdR4rRujU"
+  },
+  {
+    "content": "Proč skončil tvůj poslední vztah?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 308,
+    "locale": "cs-CZ",
+    "id": "recpgc470VM5VDSHC"
+  },
+  {
+    "content": "Rozešel/šla ses někdy s někým?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 309,
+    "locale": "cs-CZ",
+    "id": "recGuLLOTQWOK1awf"
+  },
+  {
+    "content": "Rozešel/šla se s tebou někdy někdo?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 310,
+    "locale": "cs-CZ",
+    "id": "recUxu1dppApadLVZ"
+  },
+  {
+    "content": "Co by sis nechal vytetovat, kdyby sis to musel nechat udělat hned teď?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 311,
+    "locale": "cs-CZ",
+    "id": "recfiPunDlPZkdx7B"
+  },
+  {
+    "content": "Kdybys si musel/a hned teď nechat udělat tetování, co by to bylo?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 312,
+    "locale": "cs-CZ",
+    "id": "recU3VU4YVcPl1k2F"
+  },
+  {
+    "content": "Kdybys mohl/a dělat jakoukoli kariéru na světě, jaká by to byla?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 313,
+    "locale": "cs-CZ",
+    "id": "rec5GZNCpuLh1aOSL"
+  },
+  {
+    "content": "Jak bys popsal svůj vztah s rodiči?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 314,
+    "locale": "cs-CZ",
+    "id": "recaotIQQBWmuPPSU"
+  },
+  {
+    "content": "Uvažoval/a jsi někdy o tom, že by ses se vrátil/a k bývalému partnerovi?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 315,
+    "locale": "cs-CZ",
+    "id": "recjqRyNpcbz2y2lc"
+  },
+  {
+    "content": "Jaká je tvá vysněná dovolená?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 316,
+    "locale": "cs-CZ",
+    "id": "recAUKaPcU1boKjxk"
+  },
+  {
+    "content": "Jakou nejpodivnější kombinaci jídel máš rád/a?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 317,
+    "locale": "cs-CZ",
+    "id": "recZXgAyTRMiWGmqh"
+  },
+  {
+    "content": "Co je tvoje all-time oblíbená písnička?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 318,
+    "locale": "cs-CZ",
+    "id": "recH7lj1afXlYgpHF"
+  },
+  {
+    "content": "Kdo byl/a tvůj nejlepší polibek v životě?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 319,
+    "locale": "cs-CZ",
+    "id": "recocvVEM3Sb7rp5b"
+  },
+  {
+    "content": "Kdo byl/a tvůj nejhorší polibek v životě?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 320,
+    "locale": "cs-CZ",
+    "id": "recR9OY4IxsLH2ENZ"
+  },
+  {
+    "content": "Vzpomeneš si na nějaký sen, který se ti zdál?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 321,
+    "locale": "cs-CZ",
+    "id": "rectHBGnXmVIAosDD"
+  },
+  {
+    "content": "Odešel/a jsi někdy bez rozloučení (po anglicku)? Tzv. Irish goodbye.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 322,
+    "locale": "cs-CZ",
+    "id": "recxRrvRjaZIJ8g2d"
+  },
+  {
+    "content": "Co je první věc, kterou uděláš, když se ráno probudíš?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 323,
+    "locale": "cs-CZ",
+    "id": "recl9901FYrjYVS6A"
+  },
+  {
+    "content": "Kde se vidíš za 10 let?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 324,
+    "locale": "cs-CZ",
+    "id": "recn61tNwWUfPInhp"
+  },
+  {
+    "content": "Ke komu v této místnosti bys sis přál mít blíž? Musíš někoho vybrat.",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 325,
+    "locale": "cs-CZ",
+    "id": "recJPsgaqUdCOxO2W"
+  },
+  {
+    "content": "Jak by ses popsal třemi slovy?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 326,
+    "locale": "cs-CZ",
+    "id": "recotrYfa4iQfw3Ty"
+  },
+  {
+    "content": "Jaký byl tvůj nějaký „first world problem“ moment? Roz.: problém bohatých a rozmazlených.",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 327,
+    "locale": "cs-CZ",
+    "id": "recoFL3BgRiNUVGI0"
+  },
+  {
+    "content": "Co si myslíš o polyamorii?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 328,
+    "locale": "cs-CZ",
+    "id": "rec7aGz1emsN13xFZ"
+  },
+  {
+    "content": "Kdybys měl účinkovat v nějaké reality show, která by to byla?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 329,
+    "locale": "cs-CZ",
+    "id": "recCw14qxSJCJ8Omu"
+  },
+  {
+    "content": "Kdy jsi měl/a naposledy sex venku?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 330,
+    "locale": "cs-CZ",
+    "id": "rec4FhskCWsBYPeLZ"
+  },
+  {
+    "content": "Kolik měsíčně přibližně utrácíš peněz?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 331,
+    "locale": "cs-CZ",
+    "id": "rec5ESvqs3LFSuIi0"
+  },
+  {
+    "content": "Kdo je podle tebe nejhůř oblečený člověk v této místnosti?",
+    "type": "truth",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 332,
+    "locale": "cs-CZ",
+    "id": "rec9HmsqTX1Xu3GVR"
+  },
+  {
+    "content": "Jak bys ohodnotil/a svůj vzhled na stupnici od 1 do 10?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 333,
+    "locale": "cs-CZ",
+    "id": "rec5yAUr4yNWLbMfU"
+  },
+  {
+    "content": "Kdy jsi naposledy měl/a sex?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 334,
+    "locale": "cs-CZ",
+    "id": "recMh4aL3sYh3wZcL"
+  },
+  {
+    "content": "Měl/a jsi někdy kamaráda/ku s výhodami?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "checked",
+    "order_id": 335,
+    "locale": "cs-CZ",
+    "id": "recjYobhxbeVXoLmR"
+  },
+  {
+    "content": "Kdybys ses musel přejmenovat, jaké křestní jméno by to bylo?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 336,
+    "locale": "cs-CZ",
+    "id": "rectSPFZIRWhNYuTi"
+  },
+  {
+    "content": "Kdybys si musel/a na týden prohodit těla (přenést vědomí), s kým by sis to chtěl/a prohodit?",
+    "type": "truth",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 337,
+    "locale": "cs-CZ",
+    "id": "recX9qaeiUvSZWYFj"
+  },
+  {
+    "content": "Pokus se napodobit někoho v téhle místnosti (přízvuk, grimasy nebo cokoli, co je pro něj/ni typické).",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 338,
+    "locale": "cs-CZ",
+    "id": "recMpX5wd2pkwxLHh"
+  },
+  {
+    "content": "Pak napodob toho druhého: přízvuk, grimasy nebo cokoli, co je pro něj/ni typické.",
+    "type": "dare",
+    "tags": "friends,couples",
+    "is_erotic": "",
+    "order_id": 339,
+    "locale": "cs-CZ",
+    "id": "rec6BJVzfqtr62fU5"
+  },
+  {
+    "content": "Vymysli si otázku (pravdu) a odpověz na ní. Nic lehkýho ale!",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 340,
+    "locale": "cs-CZ",
+    "id": "rec5TVkVT0byrVmpE"
+  },
+  {
+    "content": "Máš 1 minutu. Ukaž to nejtrapnější, co najdeš v galerii fotek. Ostatní mohou vetovat a říct, ať najdeš něco dalšího.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 341,
+    "locale": "cs-CZ",
+    "id": "recBbN7Mm0SOEJQLR"
+  },
+  {
+    "content": "Vyprázdni peněženku a ukaž všem, co je uvnitř.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 342,
+    "locale": "cs-CZ",
+    "id": "recefTji2NN3aPYMk"
+  },
+  {
+    "content": "Tvůj úkol je, že hraješ ještě jednou, ale tentokrát si musíš zvolit si pravdu.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 343,
+    "locale": "cs-CZ",
+    "id": "recsbWizdQkTUft06"
+  },
+  {
+    "content": "Tvůj úkol je, že hraješ ještě jednou.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 344,
+    "locale": "cs-CZ",
+    "id": "recvwVIEr6tlMnyyC"
+  },
+  {
+    "content": "Vymysli spontánně nové přezdívky pro každého ve skupině.",
+    "type": "dare",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 345,
+    "locale": "cs-CZ",
+    "id": "recekTGwGhHwqoe5b"
+  },
+  {
+    "content": "Bez dlouhého přemýšlení vymysli novou přezdívku pro toho druhého.",
+    "type": "dare",
+    "tags": "friends,couples",
+    "is_erotic": "",
+    "order_id": 346,
+    "locale": "cs-CZ",
+    "id": "rect0ujs7hTEiSDSO"
+  },
+  {
+    "content": "Napodob celebritu dle tvého výběru",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 347,
+    "locale": "cs-CZ",
+    "id": "reclQtz50On3BXEHg"
+  },
+  {
+    "content": "Zazpívej libovolnou písničku alespoň na 15 sekund (např: „Don’t worry… be happy“).",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 348,
+    "locale": "cs-CZ",
+    "id": "reckkwvv9XjywYln2"
+  },
+  {
+    "content": "Předveď, jak bys tancoval/a na pořádné rave party (divoké kalbě).",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 349,
+    "locale": "cs-CZ",
+    "id": "rect3rlmSNzjhZKCU"
+  },
+  {
+    "content": "Proveď skupinu v krátkou vedenou meditací (cca 60 sekund).",
+    "type": "dare",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 350,
+    "locale": "cs-CZ",
+    "id": "reckZDj9p6FNqspIN"
+  },
+  {
+    "content": "Proveď nás v krátkou vedenou meditací (cca 60 sekund).",
+    "type": "dare",
+    "tags": "friends,couples",
+    "is_erotic": "",
+    "order_id": 351,
+    "locale": "cs-CZ",
+    "id": "recWKFSJqR9o620tP"
+  },
+  {
+    "content": "Představ si na zemi rovnou čáru a projdi po ní bez zavrávorání (zkouška opilosti).",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 352,
+    "locale": "cs-CZ",
+    "id": "recZC5YHCELTbyqba"
+  },
+  {
+    "content": "Zkus mluvit, aniž bys otevřel ústa. Bude z tebe břichomluvec?",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 353,
+    "locale": "cs-CZ",
+    "id": "recLDgQgmFtNNrlcP"
+  },
+  {
+    "content": "Ukaž libovolnou fotku z doby, kdy jsi byl/a dítě. Pokud ji nemáš k dispozici, hraješ ještě jednou.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 354,
+    "locale": "cs-CZ",
+    "id": "recDo7H69jEsiPNAh"
+  },
+  {
+    "content": "Předveď, jak si ráno upravuješ vlasy, abys docílil/a účesu, který běžně nosíš.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 355,
+    "locale": "cs-CZ",
+    "id": "recc0AFyn3MvduJPR"
+  },
+  {
+    "content": "Mluv chvíli jako ChatGPT. Např. vyprávěj o tom, jak rozesmát kamarády.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 356,
+    "locale": "cs-CZ",
+    "id": "recWIKNCdIINF1YMx"
+  },
+  {
+    "content": "Vyber si nějaký přízvuk a zkus ho napodobit. Ostatní hádají, co to má být.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 357,
+    "locale": "cs-CZ",
+    "id": "recKk7O8GccEoqiAz"
+  },
+  {
+    "content": "Ukaž herecký výkon! Tvůj úkol je se rozbrečet na povel.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 358,
+    "locale": "cs-CZ",
+    "id": "recjKR5dePuvpsy5A"
+  },
+  {
+    "content": "Předveď libovolné meme a ostatní se pokusí uhodnout, o jaké jde.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 359,
+    "locale": "cs-CZ",
+    "id": "recRdKikP6MP8GUWM"
+  },
+  {
+    "content": "Ukaž, jak by se smál šílenec. Herecký výkon!",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 360,
+    "locale": "cs-CZ",
+    "id": "rec7hrXM2o9l4kN6f"
+  },
+  {
+    "content": "Zkus se smát jako úchyl. Fakt creepy nechuťák.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 361,
+    "locale": "cs-CZ",
+    "id": "recJrVSCfo2e4ii5D"
+  },
+  {
+    "content": "Zoragnizuj společnou fotku celé skupiny. Ne selfie a všichni tam musí být.",
+    "type": "dare",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 362,
+    "locale": "cs-CZ",
+    "id": "recCvC6bqEgeFbyDj"
+  },
+  {
+    "content": "Zorganizuj společnou fotku vás dvou, ne selfie.",
+    "type": "dare",
+    "tags": "friends,couples",
+    "is_erotic": "",
+    "order_id": 363,
+    "locale": "cs-CZ",
+    "id": "rec63oOhd4KFL6YbK"
+  },
+  {
+    "content": "Udělej 10 kliků.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 364,
+    "locale": "cs-CZ",
+    "id": "recr0p88fX4NDQ11O"
+  },
+  {
+    "content": "Udělej 10 dřepů.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 365,
+    "locale": "cs-CZ",
+    "id": "rec9Q9a45B4riHnN3"
+  },
+  {
+    "content": "Zkus předvést co nejvíc svůdný hlas.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 366,
+    "locale": "cs-CZ",
+    "id": "recfPnJlKa7pOpyfo"
+  },
+  {
+    "content": "Zkus minutu mluvit jako syn/dcera miliardáře.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 367,
+    "locale": "cs-CZ",
+    "id": "recsv1B5kJKKEZ8Ij"
+  },
+  {
+    "content": "Předveď, jak bys flirtoval/a s číšnicí nebo číšníkem.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 368,
+    "locale": "cs-CZ",
+    "id": "recpDrcrNGsi9yxzT"
+  },
+  {
+    "content": "Popiš svůj dnešní den, jako bys byl vypravěčem vlastního příběhu (vyprávěj ve třetí osobě).",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 369,
+    "locale": "cs-CZ",
+    "id": "recrsuFEOgbq6lKWh"
+  },
+  {
+    "content": "Ukaž svůj „screen time“.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 370,
+    "locale": "cs-CZ",
+    "id": "recKqXN1ItlDjs0CZ"
+  },
+  {
+    "content": "Na 30 sekund dělej, že jsi extrémně uražený/á.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 371,
+    "locale": "cs-CZ",
+    "id": "reciEjxgkJMv7KoRu"
+  },
+  {
+    "content": "Vymysli a předveď vlastní vítězný taneček.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 372,
+    "locale": "cs-CZ",
+    "id": "recd2537VZQdVWnZO"
+  },
+  {
+    "content": "Řekni abecedu, co nejrychleji.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 373,
+    "locale": "cs-CZ",
+    "id": "recRcJECeHkny2C3z"
+  },
+  {
+    "content": "Zkus prodat libovolnou věc v místnosti jako starý dobrý teleshoppingový moderátor.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 374,
+    "locale": "cs-CZ",
+    "id": "recuZqnKow38LXttN"
+  },
+  {
+    "content": "Popiš svůj dnešní den jako televizní reportér.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 375,
+    "locale": "cs-CZ",
+    "id": "reclGfQJJ94GnJ2qe"
+  },
+  {
+    "content": "Popiš svůj poslední rok jako televizní reportér. Stačí jen pár informací, nemusíš zacházet do detailů.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 376,
+    "locale": "cs-CZ",
+    "id": "recxr2L8rkiIwhF1i"
+  },
+  {
+    "content": "Mrkni do libovolné chatovací aplikace. Vyber si nějakou konverzaci a dramaticky přečti několik zpráv. Zaměř se na svůj herecký výkon.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 377,
+    "locale": "cs-CZ",
+    "id": "recVHHFXPG4rLR6H8"
+  },
+  {
+    "content": "Vymysli si otázku (pravdu) a polož ji někomu v téhle místnosti.",
+    "type": "dare",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 378,
+    "locale": "cs-CZ",
+    "id": "recPKoKuZloPxWD6T"
+  },
+  {
+    "content": "Vymysli si otázku (pravdu) a polož ji tomu druhému.",
+    "type": "dare",
+    "tags": "friends,couples",
+    "is_erotic": "",
+    "order_id": 379,
+    "locale": "cs-CZ",
+    "id": "recJxMyjfOEiIQjZb"
+  },
+  {
+    "content": "Až do tvého dalšího tahu reaguj na vše přehnaně dramaticky.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 380,
+    "locale": "cs-CZ",
+    "id": "recIx7gEHk5ClW3KY"
+  },
+  {
+    "content": "Právě se zjistilo, že jsi všem tady dal/a do pití projímadlo. Obhaj se, proč jsi to udělal/a. (Herecký výkon)",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 381,
+    "locale": "cs-CZ",
+    "id": "recfqu0Wzg2ArDNYV"
+  },
+  {
+    "content": "Až to příštího kola se chovej jako přehnaně milý/á člověk.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 382,
+    "locale": "cs-CZ",
+    "id": "recudpU7h63d6zh2P"
+  },
+  {
+    "content": "Až do dalšího kola buď totálně ztracený/á a mluv tak, jako bys byl/a úplně mimo.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 383,
+    "locale": "cs-CZ",
+    "id": "rechHBcRVskuotGHM"
+  },
+  {
+    "content": "Až do příštího kola se chovej jako člověk, co vůbec nechápe situaci a nečte atmosféru.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 384,
+    "locale": "cs-CZ",
+    "id": "rec8kWVgQuAzBiX7g"
+  },
+  {
+    "content": "Zkus někoho v místnosti rozesmát beze slov.",
+    "type": "dare",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 385,
+    "locale": "cs-CZ",
+    "id": "recGtH1v8Y8tlykol"
+  },
+  {
+    "content": "Zkus toho druhého rozesmát beze slov.",
+    "type": "dare",
+    "tags": "friends,couples",
+    "is_erotic": "",
+    "order_id": 386,
+    "locale": "cs-CZ",
+    "id": "recYveIcpmzsApejm"
+  },
+  {
+    "content": "Vymysli absurdní konspirační teorii a odprezentuj ji.",
+    "type": "dare",
+    "tags": "",
+    "is_erotic": "",
+    "order_id": 387,
+    "locale": "cs-CZ",
+    "id": "rec6WhWyao1Vzj3yg"
+  },
+  {
+    "content": "Pošli hlasovku libovolnému kontaktu: „Všechno je jinak.“ Bez vysvětlení.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 388,
+    "locale": "cs-CZ",
+    "id": "recdjIpBAEvFG9kWq"
+  },
+  {
+    "content": "Prodej sám/sama sebe jako ideálního partnera.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 389,
+    "locale": "cs-CZ",
+    "id": "recSmGHu3kbGL5tAd"
+  },
+  {
+    "content": "Nakresli si knír. Pokud nemáš čím, hraješ ještě jednou.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 390,
+    "locale": "cs-CZ",
+    "id": "rec1Npt5m6ODDBdP3"
+  },
+  {
+    "content": "Poděkuj někomu tady za něco, co skutečně udělal/a.",
+    "type": "dare",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 391,
+    "locale": "cs-CZ",
+    "id": "recsqyqpDux472YsF"
+  },
+  {
+    "content": "Poděkuj druhému hráči za něco, co skutečně udělal/a.",
+    "type": "dare",
+    "tags": "friends,couples",
+    "is_erotic": "",
+    "order_id": 392,
+    "locale": "cs-CZ",
+    "id": "recIDldW16VG5CKCt"
+  },
+  {
+    "content": "Jsi sportovní komentátor a právě komentuješ situaci, kdy někdo v místnosti… prostě jen sedí. Máš 30–60 sekund.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 393,
+    "locale": "cs-CZ",
+    "id": "recpDZFVnq4tTcTuA"
+  },
+  {
+    "content": "Vysvětli přípravu pytlíkového čaje, jako by šlo o jadernou fyziku. Krok po kroku, co nejsložitěji.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 394,
+    "locale": "cs-CZ",
+    "id": "reczACTsXv6X8Zr57"
+  },
+  {
+    "content": "Pošeptej tady někomu do ucha tvoje telefonní číslo.",
+    "type": "dare",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 395,
+    "locale": "cs-CZ",
+    "id": "recOMItXvOheKdCBd"
+  },
+  {
+    "content": "Pošeptej tomu druhému, který kus oblečení se ti na něm/ní nejvíc líbí.",
+    "type": "dare",
+    "tags": "couples",
+    "is_erotic": "",
+    "order_id": 396,
+    "locale": "cs-CZ",
+    "id": "recgSabv4yGuf54Lx"
+  },
+  {
+    "content": "Ukaž poslední fotku v galerii, kterou určí skupina / ten druhý (můžeš nesouhlasit, ale hraješ ještě jednou).",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 397,
+    "locale": "cs-CZ",
+    "id": "rechFSXcGa2CJmy0v"
+  },
+  {
+    "content": "Udělej pusou, co nejdivnější zvuk zvládneš.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 398,
+    "locale": "cs-CZ",
+    "id": "recVsY55qNuB7Ygv9"
+  },
+  {
+    "content": "Předveď nejlepší slow-mo běh po pláži, který zvládneš.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 399,
+    "locale": "cs-CZ",
+    "id": "recCFLqmOYBGz51k2"
+  },
+  {
+    "content": "Napodob někoho v místnosti nejlépe jak dokážeš.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 400,
+    "locale": "cs-CZ",
+    "id": "recAUtynjiUhzk4cj"
+  },
+  {
+    "content": "Nech si od někoho napsat něco na čelo. Musíš to tam nechat až do konce večera. (Pokud nemáte propisku, hraješ ještě jednou.)",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 401,
+    "locale": "cs-CZ",
+    "id": "rec5YOH0K5jXb8bXe"
+  },
+  {
+    "content": "Postav se na 10 sekund čelem ke zdi jako dítě, které dostalo trest.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 402,
+    "locale": "cs-CZ",
+    "id": "reczIPCkGgJNsfmI3"
+  },
+  {
+    "content": "Ztvárňuj nějaký film tak dlouho, dokud ostatní hráč/hráči nepřijde/ou na to, jaký film to je.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 403,
+    "locale": "cs-CZ",
+    "id": "recrUf4yRrCPEDsQo"
+  },
+  {
+    "content": "Napodob zvíře vybrané skupinou / druhým hráčem.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 404,
+    "locale": "cs-CZ",
+    "id": "reco1IUXJgTvKrTbt"
+  },
+  {
+    "content": "Rychle se 10krát zatoč a následně se pokus jít rovně.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 405,
+    "locale": "cs-CZ",
+    "id": "recjd09mDIOgMhUnu"
+  },
+  {
+    "content": "Polib někoho na tvář.",
+    "type": "dare",
+    "tags": "friends,party",
+    "is_erotic": "",
+    "order_id": 406,
+    "locale": "cs-CZ",
+    "id": "rec3amyLD8CE2rHcr"
+  },
+  {
+    "content": "Vyměňte si kus oblečení s hráčem po své pravici.",
+    "type": "dare",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 407,
+    "locale": "cs-CZ",
+    "id": "recQqqg2fucWp00VS"
+  },
+  {
+    "content": "Vyměňte si kus oblečení s druhým hráčem.",
+    "type": "dare",
+    "tags": "couples",
+    "is_erotic": "",
+    "order_id": 408,
+    "locale": "cs-CZ",
+    "id": "recFv2ZYdlprOjc5R"
+  },
+  {
+    "content": "Přečti nahlas poslední zprávu, kterou jste dostali.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 409,
+    "locale": "cs-CZ",
+    "id": "reccld47mWejOHxfJ"
+  },
+  {
+    "content": "Projdi se jako model po mole na módní přehlídce.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 410,
+    "locale": "cs-CZ",
+    "id": "recBTd9QTkVzwzYy7"
+  },
+  {
+    "content": "Nech někoho tady, aby ti upravil vlasy.",
+    "type": "dare",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 411,
+    "locale": "cs-CZ",
+    "id": "recJtzh5zUS52NR4p"
+  },
+  {
+    "content": "Nech toho druhého, aby ti upravil vlasy.",
+    "type": "dare",
+    "tags": "friends,couples",
+    "is_erotic": "",
+    "order_id": 412,
+    "locale": "cs-CZ",
+    "id": "reckZskNIO753JRfB"
+  },
+  {
+    "content": "Napodob postaršího člověka, jak se zvedá ze židle.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 413,
+    "locale": "cs-CZ",
+    "id": "rectQ1BU9rh1AyKPw"
+  },
+  {
+    "content": "Ukaž zatnutý biceps a nech ostatní, aby si sáhli.",
+    "type": "dare",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 414,
+    "locale": "cs-CZ",
+    "id": "rec3dckyqxFrueM9M"
+  },
+  {
+    "content": "Ukaž zatnutý biceps a nech toho druhého, aby si sáhl.",
+    "type": "dare",
+    "tags": "friends,couples",
+    "is_erotic": "",
+    "order_id": 415,
+    "locale": "cs-CZ",
+    "id": "recutQXKNo4VLDO06"
+  },
+  {
+    "content": "Flirtuj s druhým hráčem pouze pomocí jednoho obočí.",
+    "type": "dare",
+    "tags": "couples",
+    "is_erotic": "",
+    "order_id": 416,
+    "locale": "cs-CZ",
+    "id": "recJXDjj4J50wlq3Z"
+  },
+  {
+    "content": "Flirtuj s libovolným hráčem v místnosti jen pomocí výrazu v obličeji.",
+    "type": "dare",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 417,
+    "locale": "cs-CZ",
+    "id": "reckjfGBYsGNoa54e"
+  },
+  {
+    "content": "Zvedni jedno obočí. Pokud to nezvládneš, hraješ ještě jednou.",
+    "type": "dare",
+    "tags": "friends",
+    "is_erotic": "",
+    "order_id": 418,
+    "locale": "cs-CZ",
+    "id": "reckw9NjL9kDlCvEb"
+  },
+  {
+    "content": "Otevři novou kartu ve Chrome nebo jdi na google.com, klikni na vyhledávací pole a přečti nahlas posledních pět položek ze své historie.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 419,
+    "locale": "cs-CZ",
+    "id": "recLMyCh0YNeyXIIW"
+  },
+  {
+    "content": "Přečti nahlas poslední zadání ze svého chatu s ChatGPT (nebo jiné AI, kterou používáš).",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 420,
+    "locale": "cs-CZ",
+    "id": "recIKoo01qR9KB4Rw"
+  },
+  {
+    "content": "Dopřej tomu druhému 30sekundovou masáž ramen a šíjí (za krkem)..",
+    "type": "dare",
+    "tags": "friends,couples",
+    "is_erotic": "",
+    "order_id": 421,
+    "locale": "cs-CZ",
+    "id": "recDsPxzdHOjgIheP"
+  },
+  {
+    "content": "Dopřej člověkovi popravici 30sekundovou masáž ramen a šíjí (za krkem).",
+    "type": "dare",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 422,
+    "locale": "cs-CZ",
+    "id": "recL28fgOsMZHgYMd"
+  },
+  {
+    "content": "Udělej co nejhloupější selfie a pošli ji druhému hráči.",
+    "type": "dare",
+    "tags": "friends,couples",
+    "is_erotic": "",
+    "order_id": 423,
+    "locale": "cs-CZ",
+    "id": "recJElruziPgfiMDu"
+  },
+  {
+    "content": "Udělej co nejhloupější selfie a pošli ji vybranému hráči.",
+    "type": "dare",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 424,
+    "locale": "cs-CZ",
+    "id": "recQH3cjGRyjuBSm8"
+  },
+  {
+    "content": "Napodobuj jiného hráče a nechte ostatní hádat, o koho jde.",
+    "type": "dare",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 425,
+    "locale": "cs-CZ",
+    "id": "recDzpSpIFR2wet9N"
+  },
+  {
+    "content": "Napodobuj vašeho společného známého a nech druhého hráče hádat, o koho jde.",
+    "type": "dare",
+    "tags": "friends,couples",
+    "is_erotic": "",
+    "order_id": 426,
+    "locale": "cs-CZ",
+    "id": "recfGRc5ykxM5Th4P"
+  },
+  {
+    "content": "Napodob opilého člověka, který tvrdí, že na něj alkohol vůbec nepůsobí (po desátém pivu).",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 427,
+    "locale": "cs-CZ",
+    "id": "recGDnGDBgfJyNMv9"
+  },
+  {
+    "content": "Zrecenzuj drink, který právě piješ, co nejpodrobněji, jako bys byl someliér hodnotící víno.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 428,
+    "locale": "cs-CZ",
+    "id": "receJyylvma605Im1"
+  },
+  {
+    "content": "Navigace v Google Maps má nyní experimentální AI funkci, díky níž naviguje stejně dobře jako spolujezdec. Předveď, jak tato navigace postupně ztrácí trpělivost.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 429,
+    "locale": "cs-CZ",
+    "id": "recCg5OWhLj5zbLrb"
+  },
+  {
+    "content": "Řekni o člověkovi na pravici, kterou on sám o sobě neví.",
+    "type": "dare",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 430,
+    "locale": "cs-CZ",
+    "id": "recX2Dq1iFk0lR9F0"
+  },
+  {
+    "content": "Řekni o druhém hráči věc, kterou o sobě pravděpodobně ani on/ona sám/sama neví.",
+    "type": "dare",
+    "tags": "friends,couples",
+    "is_erotic": "",
+    "order_id": 431,
+    "locale": "cs-CZ",
+    "id": "recpGENmq8JUv6nyA"
+  },
+  {
+    "content": "O každém tady uhodni věk, kdy přišli o panenství/panictví.",
+    "type": "dare",
+    "tags": "party",
+    "is_erotic": "checked",
+    "order_id": 432,
+    "locale": "cs-CZ",
+    "id": "recIz7s71JfaLQBuw"
+  },
+  {
+    "content": "Uhodni nebo si vzpomeň na věk, kdy ten druhý přišel o panenství/panictví.",
+    "type": "dare",
+    "tags": "friends,couples",
+    "is_erotic": "checked",
+    "order_id": 433,
+    "locale": "cs-CZ",
+    "id": "recWMfEqKoRoLSx2V"
+  },
+  {
+    "content": "Předveď svůj nejlepší pokus o beatbox. (Melodie pouze pusou, bez slov.)",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 434,
+    "locale": "cs-CZ",
+    "id": "recILXULxnRRSg25I"
+  },
+  {
+    "content": "Vymysli otázku (pravdu) a polož ji hráči po vaší levici.",
+    "type": "dare",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 435,
+    "locale": "cs-CZ",
+    "id": "recCIO6olMjVPGyvD"
+  },
+  {
+    "content": "Vymysli otázku (pravdu) a polož ji druhému hráči.",
+    "type": "dare",
+    "tags": "friends,couples",
+    "is_erotic": "",
+    "order_id": 436,
+    "locale": "cs-CZ",
+    "id": "recjMUO9fQNunqjfh"
+  },
+  {
+    "content": "Předveď svůj nejhorší taneční pohyb vsedě.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 437,
+    "locale": "cs-CZ",
+    "id": "recpNNiFhmkI52ODd"
+  },
+  {
+    "content": "Předveď svůj nejlepší taneční pohyb vsedě.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 438,
+    "locale": "cs-CZ",
+    "id": "recSUgLoSgTXgiEpc"
+  },
+  {
+    "content": "Na chvíli se staň životním koučem pro hráče po pravici. Dej mu/ji alespoň 3 rady, které mu zlepší život.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 439,
+    "locale": "cs-CZ",
+    "id": "recq4opEYYGpO5bJK"
+  },
+  {
+    "content": "Na chvíli se staň životním koučem pro toho druhého. Dej mu/ji alespoň 3 rady, které mu zlepší život.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 440,
+    "locale": "cs-CZ",
+    "id": "recSbNDtQ8Iex3eej"
+  },
+  {
+    "content": "Přesvědč hráče naproti tobě, že nejsi blázen.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 441,
+    "locale": "cs-CZ",
+    "id": "recxVy9zA7XKiiESC"
+  },
+  {
+    "content": "Nech hráče po tvé levici vymyslet úkol a ty ho musíš splnit.",
+    "type": "dare",
+    "tags": "party",
+    "is_erotic": "",
+    "order_id": 442,
+    "locale": "cs-CZ",
+    "id": "reckcG1Y0fCHcASUZ"
+  },
+  {
+    "content": "Nech toho druhého vymyslet úkol a ty ho musíš splnit.",
+    "type": "dare",
+    "tags": "friends,couples",
+    "is_erotic": "",
+    "order_id": 443,
+    "locale": "cs-CZ",
+    "id": "rec8evGIMBGx7hCdS"
+  },
+  {
+    "content": "Mluv jako politik, který hodně mluví, ale nic konkrétního neříká. Nech ostatní hráče, ať ti vymyslí otázku, na kterou máš odpovědět.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 444,
+    "locale": "cs-CZ",
+    "id": "rec09sdM7QcNEWnP8"
+  },
+  {
+    "content": "Předveď, jak bys flirtoval bez použití slov.",
+    "type": "dare",
+    "tags": "friends,couples,party",
+    "is_erotic": "",
+    "order_id": 445,
+    "locale": "cs-CZ",
+    "id": "recKPxPl474i68J4R"
+  }
+]
